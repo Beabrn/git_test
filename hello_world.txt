@@ -1,0 +1,5 @@
+print("Hello, world")
+
+Lorem ipsum
+Some sample text
+Doing OdinProject fundamentals
